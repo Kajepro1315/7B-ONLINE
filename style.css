@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #3b3a3a;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    -webkit-text-stroke: #000000 2px;
+    font-size: 90px;
+}
